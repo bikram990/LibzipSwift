@@ -53,11 +53,11 @@ let excludes = [
 
 let package = Package(
     name: "LibzipSwift",
-    platforms: [
-        .iOS(.v11),
-        .tvOS(.v11),
-        .macOS(.v10_12),
-    ],
+//    platforms: [
+//        .iOS(.v11),
+//        .tvOS(.v11),
+//        .macOS(.v10_12),
+//    ],
     products: [
         .library(name: "LibzipSwift", targets: ["LibzipSwift"]),
     ],
