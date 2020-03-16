@@ -47,7 +47,7 @@ let excludes = [
     "src/zip_source_win32utf8.c",
     "src/zip_source_win32a.c",
     "src/zip_source_win32w.c",
-    "src/zip_winzip_aes.c"
+//    "src/zip_winzip_aes.c"
 ]
 #endif
 
